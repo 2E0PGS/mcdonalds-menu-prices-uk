@@ -2,8 +2,6 @@
 
 ## A community sourced list of McDonalds UK menu prices.
 
-### Most sites seem out of date so why not allow community driven infomation to keep it relevent.
-
 ### Breakfast
 
 | Breakfast                     | Single | Meal  |
