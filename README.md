@@ -4,7 +4,7 @@
 
 ### Most sites seem out of date so why not allow community driven infomation to keep it relevent.
 
-#### Breakfast
+### Breakfast
 
 | Breakfast                     | Single | Meal  |
 |-------------------------------|--------|-------|
@@ -24,7 +24,7 @@
 | Hash Brown                    | £0.79  |       |
 | Quaker Oatso Simple Porridge  | £0.99  |       |
 
-#### Beef Burgers / Sandwiches
+### Beef Burgers / Sandwiches
 
 | Burger / Meal               | Single | Medium | Large |
 |-----------------------------|--------|--------|-------|
@@ -39,7 +39,7 @@
 | Signature - The BBQ         | £4.89  | £6.39  | £6.79 |
 | Signature - The Spicy       | £4.89  | £6.39  | £6.79 |
 
-#### Chicken Burgers / Sandwiches
+### Chicken Burgers / Sandwiches
 
 | Burger / Meal                          | Single | Medium | Large |
 |----------------------------------------|--------|--------|-------|
@@ -50,7 +50,7 @@
 | Mayo Chicken                           | £0.99  |        |       |
 | McChicken Sandwich                     | £3.09  | £4.59  | £4.99 |
 
-#### Vegitarian Burgers / Sandwiches
+### Vegitarian Burgers / Sandwiches
 
 | Burger / Meal          | Single | Medium | Large |
 |------------------------|--------|--------|-------|
@@ -58,7 +58,7 @@
 | Vegetable Deluxe       | £2.89  | £4.59  | £4.99 |
 | Spicy Vegetable Deluxe | £2.89  | £4.59  | £4.99 |
 
-#### Chicken Selects & McNuggets
+### Chicken Selects & McNuggets
 
 | Single / Meal                        | Single | Medium | Large |
 |--------------------------------------|--------|--------|-------|
@@ -68,7 +68,7 @@
 | Chicken Selects 3 Pieces             | £3.29  | £4.69  | £5.09 |
 | Chicken Selects 5 Pieces             | £4.29  | £5.69  | £6.09 |
 
-#### Wraps
+### Wraps
 
 | Wraps / Meals                 | Single | Medium | Large |
 |-------------------------------|--------|--------|-------|
@@ -78,7 +78,7 @@
 | The Garlic Mayo Chicken One   | £2.99  | £4.59  | £4.99 |
 | The Sweet Chilli Chicken One  | £2.99  | £4.59  | £4.99 |
 
-#### Salads
+### Salads
 
 | Salads                        | Single |
 |-------------------------------|--------|
@@ -88,7 +88,7 @@
 | Grilled Chicken & Bacon Salad | £3.79  |
 | Shaker Side Salad             | £1.09  |
 
-#### Fries & Sides
+### Fries & Sides
 
 | Fries & Sides | Single |
 |---------------|--------|
@@ -99,7 +99,7 @@
 | Carrot Bag    | £0.79  |
 | Melon Bag     | £0.79  |
 
-#### Happy Meal
+### Happy Meal
 
 | Happy Meal                | Single |
 |---------------------------|--------|
@@ -114,7 +114,7 @@
 | 4 Chicken McNuggets       | £2.89  |
 | Fish Fingers              | £2.89  |
 
-#### Desserts
+### Desserts
 
 | Desserts                               | Single |
 |----------------------------------------|--------|
@@ -125,7 +125,7 @@
 | Ice Cream Cone (with Cadbury 99 Flake) | £0.89  |
 | Sundae (Strawberry / Toffee)           | £0.99  |
 
-#### Cold Drinks & Milkshakes
+### Cold Drinks & Milkshakes
 
 | Cold Drinks & Milkshakes  | Small  | Medium | Large |
 |---------------------------|--------|--------|-------|
@@ -144,7 +144,7 @@
 | Robinson's Fruit Shoot    | £0.99  |        |       |
 | Organic Semi-Skimmed Milk | £0.79  |        |       |
 
-#### Hot Drinks
+### Hot Drinks
 
 | Hot Drinks                  | Regular | Large  |
 |-----------------------------|---------|--------|
@@ -160,7 +160,7 @@
 |                             | Single  | Double |
 | Freshly Ground Espresso     | £0.79   | £0.99  |
 
-#### Iced Drinks
+### Iced Drinks
 
 | Iced Drinks                | Regular | Large |
 |----------------------------|---------|-------|
@@ -169,7 +169,7 @@
 | Caramel Iced Frappé        | £2.29   | £2.61 |
 | Mocha Iced Frappé          | £2.29   | £2.61 |
 
-#### Sweet Snacks
+### Sweet Snacks
 
 | Sweet Snacks            | Single |
 |-------------------------|--------|
